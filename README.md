@@ -1,6 +1,9 @@
 SmartList - TO DO , NOTES APP 
 ALX Software Engineering Graduation Project.
 
+![logo (1)](https://github.com/user-attachments/assets/b9aaa89a-bcba-4d48-9fce-c3ad854be48a)
+
+
 The project is about the implementation of a simple web application that allows users to manage their to-do list and notes. 
 The frontend will provide a user interface for adding, editing, and deleting to-do items and notes, 
 while the backend will handle the storage and retrieval of data.
