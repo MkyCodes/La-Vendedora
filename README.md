@@ -1,4 +1,4 @@
-SmartList - TO DO , NOTES APP 
+#SmartList - TO DO , NOTES APP 
 ALX Software Engineering Graduation Project.
 
 Logo :
@@ -133,7 +133,8 @@ Database: Use PostgreSQL in production (update DATABASE_URL in .env).
 Static Files: Configure Django to serve static files via Whitenoise or a CDN.
 
 Happy Note-Taking! ✍️
-Built with ❤️ by Hatem, Nouhaila, Asmaa.
+
+***Built with ❤️ by Hatem, Nouhaila, Asmaa.***
 
 
 
