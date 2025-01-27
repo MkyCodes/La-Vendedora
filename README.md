@@ -1,4 +1,4 @@
-#SmartList - TO DO , NOTES APP 
+# SmartList - TO DO , NOTES APP 
 ALX Software Engineering Graduation Project.
 
 Logo :
