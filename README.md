@@ -1,5 +1,5 @@
 # SmartList - TO DO , NOTES APP 
-ALX Software Engineering Graduation Project.
+## ALX Software Engineering Graduation Project.
 
 Logo :
 
@@ -39,7 +39,7 @@ The project will be implemented in the following steps:
     Step 6: Deploy the application.
 
 
-Features ✨
+### Features ✨
 - Create, edit, and delete notes.
 - Categorize notes with tags or folders.
 - Search notes by title or content.
@@ -48,7 +48,7 @@ Features ✨
 
 ---
 
-Prerequisites 📋
+### Prerequisites 📋
 - **Backend (Django):**
   - Python 3.9+
   - pip (Python package manager)
@@ -60,7 +60,7 @@ Prerequisites 📋
 
 ---
 
-Installation 🛠️
+### Installation 🛠️
 
 1. Clone the Repository
 ```bash
